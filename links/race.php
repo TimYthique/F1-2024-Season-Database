@@ -1,0 +1,1 @@
+<h1 class="info-title" style="margin-top: 20%;">Course sélectionnée : <?= ucfirst($race['race_name']); ?><img style="margin-left: 10px; height: 25px; width: auto; border: 1px solid black; vertical-align: middle;" src="<?= $race['flag']; ?>" alt=""></h1>
